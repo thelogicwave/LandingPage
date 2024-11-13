@@ -20,7 +20,7 @@ const SideMenu = () => {
         <div className="content">
           <div className="logo">
             <a href="#" className="w-100">
-              <img src="/assets/img/estifix" alt="" />
+              <img src="/assets/img/tle.png" alt="" />
             </a>
           </div>
           <div className="pages_links">

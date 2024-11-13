@@ -56,7 +56,7 @@ const Footer = () => {
           <div className="row align-items-center">
             <div className="col-lg-2 border-1 border-end brd-light">
               <Link className="navbar-brand pe-4" href="/#">
-                <img src="/assets/img/logo_9.svg" alt="" />
+                <img src="/assets/img/tle.png" alt="" />
               </Link>
             </div>
             <div className="col-lg-7">

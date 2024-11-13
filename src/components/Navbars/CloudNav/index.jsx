@@ -42,7 +42,7 @@ const Navbar = () => {
       <nav className="navbar navbar-expand-lg navbar-dark style-2" ref={navbarRef}>
         <div className="container content">
           <a className="navbar-brand" href="#">
-            <img src="/assets/img/logo_9.svg" alt="" />
+            <img src="/assets/img/tle.png" alt="" />
           </a>
           <button className="navbar-toggler" type="button" data-bs-toggle="collapse"
                   data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
