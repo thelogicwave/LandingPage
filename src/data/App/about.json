@@ -1,0 +1,37 @@
+{
+  "features": [
+    { "icon": "fas fa-tag", "title": "Filtering notes using matched keywords" },
+    { "icon": "fas fa-sync", "title": "Automatically sync in real times" },
+    { "icon": "fas fa-text-width", "title": "Complete note editor with rich text options" }
+  ],
+  "accordions": [
+    {
+      "id": 1,
+      "title": "MERN stack",
+      "content": "MERN stack is a combination of four powerful web development technologies: MongoDB, Express.js, React, and Node.js.."
+    },
+    {
+      "id": 2,
+      "title": "Node.js",
+      "content": "Node.js is an open-source, cross-platform JavaScript runtime environment that allows developers to build server-side applications using JavaScript."
+    },
+    {
+      "id": 3,
+      "title": "REACT,REACT NEXT.JS",
+      "content": ". React also enables building applications with high performance and scalability, making it a popular choice for building complex web applications.."
+    }
+  ],
+  "thirdFeatures": [
+    { "active": false, "title": "Logo designing" },
+    { "active": true, "title": "Leaflet designs" },
+    { "active": false, "title": "Card Designing" },
+    { "active": false, "title": "Poster Designs" }
+  ],
+  "integrations": [
+    "/assets/img/about/intg1.png",
+    "/assets/img/about/intg5.png",
+    "/assets/img/about/intg4.png",
+    "/assets/img/about/intg3.png",
+    "/assets/img/about/intg2.png"
+  ]
+}
